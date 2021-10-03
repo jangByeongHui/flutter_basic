@@ -2,6 +2,8 @@
 <img src="http://image.yes24.com/goods/87664198/800x0" width="240">
 
 ## * 중요 공지 *
+개정판에서는 8장이 추가되어 예제 소스가 하나씩 밀렸습니다. 개정판의 9, 10, 11장 예제는 소스의 8, 9, 10장에 해당합니다.
+
 책을 집필한 시점과 현재의 프로젝트 생성시 버전 차이로 인해서, 원활한 진행을 위해서는 프로젝트 생성후 pubspec.yaml 파일에서 sdk 버전을 2.12.0 에서 2.7.0으로 변경하고 pub get을 실행하시면 책 대로 진행하실 수 있습니다.
 
 ![pubspec](https://user-images.githubusercontent.com/7101560/119285286-ada26600-bc7c-11eb-842e-c8d4dedcf264.png)
